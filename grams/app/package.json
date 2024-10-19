@@ -1,0 +1,21 @@
+{
+  "name": "telegram-nextjs-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "telegram": "^2.15.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
